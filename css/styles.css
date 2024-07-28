@@ -22,8 +22,7 @@ a {
 .header-logo .logo-part {
   color: #2e2f42;
 }
-.header-logo,
-.footer-logo {
+.header-logo {
   font-family: "Raleway", sans-serif;
 }
 
@@ -102,6 +101,9 @@ a {
 .team {
   background: #f4f4fd;
 }
+.item-team-mark {
+  background: #fff;
+}
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -125,10 +127,6 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.item-mark {
-  background: #fff;
-}
-/* #endregion team */
 
 /* #region portfolio */
 .portf-title {
@@ -162,6 +160,9 @@ a {
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
+}
+.footer-logo {
+  font-family: "Raleway", sans-serif;
 }
 .footer-desc {
   color: #f4f4fd;
